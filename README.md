@@ -48,8 +48,6 @@ Here is an example using the `YCrCb` color space and HOG parameters of `orientat
 
 
 ![alt text][image2]
-![alt text][image3]
-
 #### 2. Explain how you settled on your final choice of HOG parameters.
 
 I tried various combinations of parameters and I deceded to use all of them. I have both more paremeter to train and higher test accurate.
